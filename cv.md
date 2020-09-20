@@ -1,7 +1,7 @@
 RESUME
 ======  
 
-Name and surname
+Name and Surname
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nastya Danilova
 
@@ -11,7 +11,7 @@ Telephone number: +375(44)739-78-42;
 
 Email: nastya.danilova.9913@gmail.com;
 
-Brief information about yourself
+Brief Information About Yourself
 --------------------------------
 Purpose: Visit different countries, taste different cuisines of the world;  
 
@@ -27,7 +27,7 @@ Programming Languages: C#, Java, JavaScript, PHP, SQL, HTML, CSS;
 
 Version control systems: Git;
 
-Sample code
+Sample Code
 -----------
     using System;
     using System.Windows.Forms;
@@ -114,6 +114,6 @@ University: Belarusian State University of Informatics and Radioelectronics;
 
 Courses: Forsta (English), Language Training Center BSUIR (English);
 
-English language proficiency
+English Language Proficiency
 ----------------------------
-Intermediate
+Intermediate(B1)
