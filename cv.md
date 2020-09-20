@@ -9,7 +9,9 @@ Contact Information
 -------------------
 Telephone number: +375(44)739-78-42;  
 
-Email: nastya.danilova.9913@gmail.com;
+Email: nastya.danilova.9913@gmail.com;  
+
+Address: 40, 79 Yamnetskaya Street, Mogilev, BY 212015  
 
 Brief Information About Yourself
 --------------------------------
